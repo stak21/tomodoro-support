@@ -1,7 +1,6 @@
 # Tomodoro — Support
 
-Tomodoro is a pomodoro timer with an alarm that keeps ringing until you
-stop it — plus a little pixel-pet farm that grows as you focus.
+Tomodoro is a simple pomodoro timer — plus a little pixel-pet farm that grows as you focus.
 
 ## Get help
 
@@ -10,10 +9,6 @@ stop it — plus a little pixel-pet farm that grows as you focus.
 - **Feature ideas** are welcome in issues too.
 
 ## FAQ
-
-**The alarm won't stop ringing.**
-That's the point 🙂 — tap anywhere on the timer screen (or the
-notification's Stop button) to dismiss it.
 
 **I don't want the pets.**
 Settings → Pets → turn off "Pet companion". The app becomes a plain
